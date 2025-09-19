@@ -28,7 +28,7 @@
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/megaurav7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/gaurav-thakur"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/22983212/gaurav-thakur"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://instagram.com/me_gaurav_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/megaurav8zo6"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
