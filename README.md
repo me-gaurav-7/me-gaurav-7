@@ -52,7 +52,8 @@
 
 ---
 
-⚡ **Fun fact:** Even my brain runs on Auto-Scaling 🚀  
+<p align="center">⚡ <strong>Fun fact:</strong> Even my brain runs on Auto-Scaling 🚀</p>
 
-💡 **Inspirational Tech Quote:**  
-*"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie  
+<p align="center">💡 <strong>Inspirational Tech Quote:</strong><br>
+"Mastering the cloud, coding languages, and tools is not just learning—it's building the future, one line at a time."  
+</p>
