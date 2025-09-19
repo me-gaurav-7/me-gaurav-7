@@ -35,19 +35,19 @@
 
 ---
 
-<h3 align="center">🛠️ Languages</h3>
+<h3 align="center">☁️ Platforms & Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,nodejs" />
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
 <h3 align="center">🛠️ Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
-<h3 align="center">☁️ Platforms & Cloud</h3>
+<h3 align="center">🛠️ Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,nodejs" />
 </p>
 
 ---
@@ -56,4 +56,3 @@
 
 💡 **Inspirational Tech Quote:**  
 *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie  
-
