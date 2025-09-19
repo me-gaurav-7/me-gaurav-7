@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thakur</h1>
-<h3 align="center">🚀 B.Tech CSE | ☁️ Cloud & DevOps Practitioner | 💻 Web Developer | 🔵 C++ & DSA Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE | ☁️ Cloud & DevOps Practitioner | 💻 Web Developer | 🔵 C++ & DSA</h3>
 
 ---
 
