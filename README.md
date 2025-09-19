@@ -35,11 +35,25 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">🛠️ Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,linux,cpp,python,java,mysql,nodejs,react,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,nodejs" />
+</p>
+
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure" />
+</p>
+
+<h3 align="center">☁️ Platforms & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
 ---
 
-⚡ **Fun fact:** Even my brain runs on Auto-Scaling 🚀
+⚡ **Fun fact:** Even my brain runs on Auto-Scaling 🚀  
+
+💡 **Inspirational Tech Quote:**  
+*"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie  
+
