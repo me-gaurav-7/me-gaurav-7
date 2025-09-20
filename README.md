@@ -1,12 +1,27 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thakur</h1>
 <h3 align="center">🚀 B.Tech CSE | ☁️ Cloud & DevOps Practitioner | 💻 Web Developer | 🔵 C++ & DSA</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" alt="Coding GIF">
 
 ---
 
 ### 🔭 Currently Working On  
+
+<table>
+  <tr>
+    <td>
+
 **CloudOps Lab** — Hands-on with:  
 ☁️ AWS EC2 | 📦 S3 | 🔐 IAM | ⚙️ Azure DevOps  
+
+    </td>
+    <td>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" alt="Coding GIF">
+
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🌱 Currently Learning  
 ☁️ Cloud Computing (AWS | Azure | DevOps)  
@@ -56,5 +71,5 @@
 <p align="center">⚡ <strong>Fun fact:</strong> Even my brain runs on Auto-Scaling 🚀</p>
 
 <p align="center">💡 <strong>Inspirational Tech Quote:</strong><br>
-"Simplicity is the prerequisite for reliability, whether in code or cloud architecture." — Edsger W. Dijkstra"  
+"Simplicity is the prerequisite for reliability, whether in code or cloud architecture." — Edsger W. Dijkstra  
 </p>
