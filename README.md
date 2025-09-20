@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thakur</h1>
 <h3 align="center">🚀 B.Tech CSE | ☁️ Cloud & DevOps Practitioner | 💻 Web Developer | 🔵 C++ & DSA</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDM4Y2h4eWd2enhpdHMyMnk4enNiaW5pajdiYnVqYXc3c28yeDM2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FwLNuW1tCKRiPmDV5Y4%2F200w.gif" width="200" alt="Coding GIF">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw1xjO0WCemer1HTmb1-jk9A&ust=1758428935937000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiv_rfA5o8DFQAAAAAdAAAAABAE" width="200" alt="Coding GIF">
 
 ---
 
