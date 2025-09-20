@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thakur</h1>
 <h3 align="center">🚀 B.Tech CSE | ☁️ Cloud & DevOps Practitioner | 💻 Web Developer | 🔵 C++ & DSA</h3>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDM4Y2h4eWd2enhpdHMyMnk4enNiaW5pajdiYnVqYXc3c28yeDM2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FwLNuW1tCKRiPmDV5Y4%2F200w.gif" width="200" alt="Coding GIF">
 
 ---
 
